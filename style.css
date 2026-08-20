@@ -32,7 +32,6 @@ ul {
 li {
   margin: 10px;
   padding: 10px;
-  /* リスト項目の背景も黒に合わせます */
-  background-color: #000000;
+  background-color: #333333;
   list-style-type: square;
 }
