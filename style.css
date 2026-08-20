@@ -1,0 +1,37 @@
+body {
+  background-color: #f0f8ff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #336699;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 5px;
+  background-color: #336699;
+  color: white;
+  border: none;
+}
+
+ul {
+  width: 400px;
+  margin: 30px auto;
+  padding: 0;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid #cccccc;
+}
