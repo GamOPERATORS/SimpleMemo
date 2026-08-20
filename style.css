@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #000033;
   color: #FFFFFF;
   width: 500px;
   margin-right: auto;
@@ -32,6 +32,6 @@ ul {
 li {
   margin: 10px;
   padding: 10px;
-  background-color: #333333;
+  background-color: #333366;
   list-style-type: square;
 }
