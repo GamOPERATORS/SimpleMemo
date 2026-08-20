@@ -1,6 +1,5 @@
 body {
   background-color: #f0f8ff;
-  /* text-alignの代わりに、全体を中央に配置する手法（幅＋左右余白auto）を使用します */
   width: 500px;
   margin-right: auto;
   margin-left: auto;
@@ -19,14 +18,12 @@ button {
   padding: 10px 20px;
   background-color: #336699;
   color: #FFFFFF;
-  /* border: none; ではなく学習済みの書き方に変更 */
   border-style: none;
 }
 
 ul {
   width: 400px;
   padding: 0;
-  /* ショートハンド（省略記法）を使わず、個別に指定して中央に配置 */
   margin-right: auto;
   margin-left: auto;
 }
@@ -35,7 +32,5 @@ li {
   margin: 10px;
   padding: 10px;
   background-color: #FFFFFF;
-  /* border(枠線)の色や太さの指定は学習していないため削除し、
-     代わりに学習済みのリスト記号で装飾します */
   list-style-type: square;
 }
