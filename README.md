@@ -1,2 +1,0 @@
-# SimpleMemo
-SimpleMemo
