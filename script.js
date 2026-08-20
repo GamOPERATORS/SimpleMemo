@@ -2,7 +2,9 @@
 
 const tasks = [];
 
-function addTask() {
+const addButton = document.getElementById('addButton');
+
+addButton.addEventListener('click', () => {
   const taskInput = document.getElementById('taskInput');
   const taskList = document.getElementById('taskList');
 
@@ -20,4 +22,4 @@ function addTask() {
   taskList.appendChild(listItem);
 
   taskInput.value = '';
-}
+});
